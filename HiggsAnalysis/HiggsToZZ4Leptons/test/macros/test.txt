@@ -1,0 +1,11 @@
+Running Mono-HtoZZto4Leptons Analysis with executables RunHZZ4LeptonsAnalysis
+Path is /cvmfs/cms.cern.ch/share/overrides/bin:/uscms_data/d3/zwang4/WORKSPCACE/ntuple/CMSSW_8_0_24/bin/slc6_amd64_gcc530:/uscms_data/d3/zwang4/WORKSPCACE/ntuple/CMSSW_8_0_24/external/slc6_amd64_gcc530/bin:/cvmfs/cms.cern.ch/slc6_amd64_gcc530/cms/cmssw/CMSSW_8_0_24/bin/slc6_amd64_gcc530:/cvmfs/cms.cern.ch/slc6_amd64_gcc530/cms/cmssw/CMSSW_8_0_24/external/slc6_amd64_gcc530/bin:/cvmfs/cms.cern.ch/slc6_amd64_gcc530/external/llvm/3.8.0-giojec2/bin:/cvmfs/cms.cern.ch/slc6_amd64_gcc530/external/gcc/5.3.0/bin:/cvmfs/cms.cern.ch/common:/cvmfs/cms.cern.ch/bin:/usr/krb5/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin
+Search Path is /uscms_data/d3/zwang4/WORKSPCACE/ntuple/CMSSW_8_0_24/src:/uscms_data/d3/zwang4/WORKSPCACE/ntuple/CMSSW_8_0_24/external/slc6_amd64_gcc530/data:/cvmfs/cms.cern.ch/slc6_amd64_gcc530/cms/cmssw/CMSSW_8_0_24/src:/cvmfs/cms.cern.ch/slc6_amd64_gcc530/cms/cmssw/CMSSW_8_0_24/external/slc6_amd64_gcc530/data
+Working dir is /uscms/home/zwang4/nobackup/WORKSPCACE/ntuple/CMSSW_8_0_24/src/HiggsAnalysis/HiggsToZZ4Leptons/test/macros
+Saving dir is /eos/uscms/store/user/wangz/ntuple/llbb
+Aborted
+mv: setting attribute `system.nfs4_acl' for `system.nfs4_acl': Numerical result out of range
+mv: cannot stat `/uscms/home/zwang4/nobackup/WORKSPCACE/ntuple/CMSSW_8_0_24/src/HiggsAnalysis/HiggsToZZ4Leptons/test/macros/output*.root': No such file or directory
+mv: cannot stat `/uscms/home/zwang4/nobackup/WORKSPCACE/ntuple/CMSSW_8_0_24/src/HiggsAnalysis/HiggsToZZ4Leptons/test/macros/output_bnn.txt': No such file or directory
+mv: cannot stat `/uscms/home/zwang4/nobackup/WORKSPCACE/ntuple/CMSSW_8_0_24/src/HiggsAnalysis/HiggsToZZ4Leptons/test/macros/output_bnn.root': No such file or directory
+mv: cannot stat `/uscms/home/zwang4/nobackup/WORKSPCACE/ntuple/CMSSW_8_0_24/src/HiggsAnalysis/HiggsToZZ4Leptons/test/macros/output_txt.txt': No such file or directory

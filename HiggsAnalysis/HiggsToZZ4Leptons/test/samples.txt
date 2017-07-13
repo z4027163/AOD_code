@@ -1,0 +1,4 @@
+/DoubleMuon/Run2016B-PromptReco-v2/AOD
+/DoubleEG/Run2016B-PromptReco-v2/AOD
+/MuonEG/Run2016B-PromptReco-v2/AOD
+/SingleElectron/Run2016B-PromptReco-v2/AOD

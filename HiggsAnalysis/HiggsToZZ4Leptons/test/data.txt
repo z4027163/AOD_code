@@ -1,0 +1,22 @@
+# Conditions read from  CMS_CONDITIONS  via FrontierProd 
+test1
+
+test2
+
+Warning in <TInterpreter::ReadRootmapFile>: class  edm::ValueMap<float> found in libDataFormatsCommon.so  is already in libHiggsAnalysisHiggsToZZ4Leptons.so 
+Warning in <TInterpreter::ReadRootmapFile>: class  edm::Wrapper<edm::ValueMap<float> > found in libDataFormatsCommon.so  is already in libHiggsAnalysisHiggsToZZ4Leptons.so 
+12-Jul-2017 18:19:49 CDT  Initiating request to open file root://cms-xrd-global.cern.ch//store/data/Run2016B/SingleMuon/AOD/18Apr2017_ver2-v1/100000/00041EEB-9839-E711-92CA-1866DAEA6CF0.root
+%MSG-w XrdAdaptor:  file_open 12-Jul-2017 18:19:52 CDT pre-events
+Data is served from fnal.gov instead of original site CERN-PROD
+%MSG
+12-Jul-2017 18:19:55 CDT  Successfully opened file root://cms-xrd-global.cern.ch//store/data/Run2016B/SingleMuon/AOD/18Apr2017_ver2-v1/100000/00041EEB-9839-E711-92CA-1866DAEA6CF0.root
+[STATUS] Reading energy scale correction  values from file: EgammaAnalysis/ElectronTools/data/ScalesSmearings/80X_ichepV1_2016_ele_scales.dat
+Reading parameters from cfg
+Number of events analysed for the ROOT tree= 0
+12-Jul-2017 18:20:14 CDT  Closed file root://cms-xrd-global.cern.ch//store/data/Run2016B/SingleMuon/AOD/18Apr2017_ver2-v1/100000/00041EEB-9839-E711-92CA-1866DAEA6CF0.root
+----- Begin Fatal Exception 12-Jul-2017 18:20:14 CDT-----------------------
+An exception of category 'DictionaryNotFound' occurred while
+   [0] Constructing the EventProcessor
+Exception Message:
+No Dictionary for class: 'edm::Wrapper<edm::DetSetVector<CTPPSDiamondDigi> >'
+----- End Fatal Exception -------------------------------------------------
